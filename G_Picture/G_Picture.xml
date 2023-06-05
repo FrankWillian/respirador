@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<G_Picture G_PictureVer="2.0">
+	<G_bmplib CurBmpTotal="8" AllBmpTotal="8" SaveAsJpg="0" G_bmplib.blb_CT="20200508  17:03:56" G_bmplib.blb_MT="20200407  02:48:36">
+		<G_bmp szFilename="logo-opus-2" nId="1" nTotalStatus="1" nWidth="238" nHeigth="239" nFileSize="171164" bTransparent="0" cTransColor="0" enumPicType="0"/>
+		<G_bmp szFilename="bswitch" nId="2" nWidth="50" nHeigth="50" nFileSize="0" enumPicType="0" nTotalStatus="2" bTransparent="0" cTransColor="0">
+			<MulStatus szFilename="bswitch.MID0" dwMID="0"/>
+			<MulStatus szFilename="bswitch.MID1" dwMID="1"/></G_bmp>
+		<G_bmp szFilename="invis" nId="3" nTotalStatus="2" nWidth="0" nHeigth="0" nFileSize="0" bTransparent="1" cTransColor="0" enumPicType="0">
+			<MulStatus szFilename="" dwMID="0"/>
+			<MulStatus szFilename="" dwMID="1"/></G_bmp>
+		<G_bmp szFilename="Arquivo" nId="4" nTotalStatus="1" nWidth="40" nHeigth="40" nFileSize="4840" bTransparent="0" cTransColor="0" enumPicType="0"/>
+		<G_bmp szFilename="cinza_0" nId="5" nTotalStatus="1" nWidth="78" nHeigth="47" nFileSize="11132" bTransparent="0" cTransColor="0" enumPicType="0"/>
+		<G_bmp szFilename="branco_3" nId="6" nTotalStatus="1" nWidth="78" nHeigth="47" nFileSize="11132" bTransparent="0" cTransColor="0" enumPicType="0"/>
+		<G_bmp szFilename="verde_4" nId="7" nTotalStatus="1" nWidth="78" nHeigth="47" nFileSize="11132" bTransparent="0" cTransColor="0" enumPicType="0"/>
+		<G_bmp szFilename="vermelho_2" nId="8" nTotalStatus="1" nWidth="78" nHeigth="47" nFileSize="11132" bTransparent="0" cTransColor="0" enumPicType="0"/></G_bmplib>
+</G_Picture>
